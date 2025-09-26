@@ -1,1 +1,2 @@
-# redesigned-adventure
+например, мой шаблон для KrylToken
+
